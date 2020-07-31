@@ -1,11 +1,10 @@
-<!--
-**maximakymenko/maximakymenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hey there 👋, I'm Maks</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-
-![image](https://media.giphy.com/media/PiQejEf31116URju4V/source.gif)
-
+  
+  <p align="center"> 
+  <img src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" alt="maximakymenko" />
+ </p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=maximakymenko" alt="maximakymenko" />
 
