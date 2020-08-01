@@ -27,6 +27,6 @@
 <a href="https://www.linkedin.com/in/maksakymenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/maksakymenko/" height="20" width="20" /></a>
   <a href="https://www.facebook.com/maks.akymenko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/maks.akymenko" height="20" width="20" /></a>
   <a href="https://www.instagram.com/max_akimenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/max_akimenko/" height="20" width="20" /></a>
- <a href="https://twitter.com/maks.akymenko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/maks.akymenko" height="20" width="20" /></a>
+ <a href="https://twitter.com/maks_akymenko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/maks_akymenko" height="20" width="20" /></a>
 
 </p>
