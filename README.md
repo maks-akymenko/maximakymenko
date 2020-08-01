@@ -17,6 +17,8 @@
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/maximakymenko?tab=repositories)
 
+- 🔧 Currently working as a frontend engineer @ [Revolut](https://revolut.com), previously frontend developer @ [NetGuru](https://netguru.com)
+
 - 📫 How to reach me **maks.akymenko@gmail.com**
 
 <p align="center"> 
